@@ -21,3 +21,4 @@ extras/
 downloads/
 .venv/
 prefs_*.xml
+termux/
