@@ -16,3 +16,8 @@ extras/
 
 # diagnostic JSON files
 *diagnostic*.json
+
+# local-only artifacts (never push)
+downloads/
+.venv/
+prefs_*.xml
